@@ -1,0 +1,17 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 42px;
+    margin: 0;   
+}
+
+p {
+    background-color: aquamarine;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 42px;
+    height: 70px;
+    width: 200px;
+}
